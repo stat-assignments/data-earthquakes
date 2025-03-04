@@ -1,0 +1,21 @@
+Version: 1.0
+ProjectId: 87e0753e-6e52-4f53-aa84-477bc426b5eb
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: knitr
+LaTeX: XeLaTeX
+
+AutoAppendNewline: Yes
+StripTrailingWhitespace: Yes
+
+PythonType: virtualenv
+PythonVersion: 3.11.2
+PythonPath: ~/.virtualenvs/r-reticulate/bin/python
