@@ -56,7 +56,7 @@ import datetime
 
 ```
 
-4. What is the time frame under consideration? How many earthquakes were there (show that the number of earthquakes is equal to the number of rows in the dataset)?
+4. What is the time frame under consideration? How many earthquakes were there (show that the number of earthquakes is NOT equal to the number of rows in the dataset)?
 When and where was the strongest earthquake? What was its magnitude?
 
 ```{r}
